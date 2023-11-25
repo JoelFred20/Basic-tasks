@@ -27,7 +27,9 @@ cd Basic-tasks
 Install the required dependencies:
 
 pip install -r requirements.txt
-Usage
+
+# Usage
+
 Open the Jupyter Notebook NaiveBayes_Iris_Classification.ipynb to run the code interactively. Ensure you have Jupyter Notebook installed:
 
 pip install jupyter
