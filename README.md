@@ -1,10 +1,14 @@
 # Basic-tasks
 
 Naive Bayes Classification on Iris Dataset
+
+
 Overview
+
 This repository contains a Jupyter Notebook showcasing the implementation of a Naive Bayes classifier on the famous Iris dataset. The steps include data exploration, model training, making predictions, and evaluating the model's performance.
 
-Table of Contents
+Table of Contents:
+
 Installation
 Usage
 Data Exploration
@@ -18,12 +22,14 @@ Installation
 Clone the repository to your local machine:
 
 bash
+
 Copy code
-git clone https://github.com/your-username/naive-bayes-iris-classification.git
-cd naive-bayes-iris-classification
+git clone https://github.com/JoelFred20/Basic-tasks
+cd Basic-tasks
 Install the required dependencies:
 
 bash
+
 Copy code
 pip install -r requirements.txt
 Usage
